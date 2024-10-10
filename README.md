@@ -8,9 +8,9 @@ Subset of the solvers are based on the efficient implementation in https://githu
 
 ## Installation
 
-Download the [official GC-RANSAC repo](https://github.com/danini/graph-cut-ransac)
+Download the [official GC-RANSAC repo](https://github.com/danini/graph-cut-ransac).
 
-Include our code to the GC-RANSAC directory
+Include our code to the GC-RANSAC directory.
 
 Run the solvers!
 
