@@ -2,13 +2,15 @@
 
 This repo contains GC-RANSAC code for paper "Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?" (arxiv: http://arxiv.org/abs/2410.05984, doi: TBA)
 
-Our main Github repo with Poselib implementation: https://github.com/kocurvik/rd
+Visit our [main Github repo][https://github.com/kocurvik/rd] for our Poselib implementation.
 
 ## Installation
 
-Download the official GC-RANSAC repo: https://github.com/danini/graph-cut-ransac.
+Download the official GC-RANSAC repo: https://github.com/danini/graph-cut-ransac
 
-Download the repo and add the files to the GC-RANSAC directory.
+Include our code to the GC-RANSAC directory.
+
+
 
 ##
 
