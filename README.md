@@ -4,7 +4,7 @@ This repo contains GC-RANSAC code for paper "Are Minimal Radial Distortion Solve
 
 Visit our [main Github repo](https://github.com/kocurvik/rd) for our implementation in [PoseLib](https://github.com/PoseLib/PoseLib/tree/dev).
 
-Subset of the solvers are based on https://github.com/hamburgerlady/fast-radial-solvers.
+Subset of the solvers are based on the efficient implementation in https://github.com/hamburgerlady/fast-radial-solvers.
 
 ## Installation
 
