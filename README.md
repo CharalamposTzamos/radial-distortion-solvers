@@ -4,4 +4,5 @@ This repo contains GC-RANSAC code for paper "Are Minimal Radial Distortion Solve
 
 ## Installation
 
-Download GC-RANSAC from https://github.com/danini/graph-cut-ransac
+Download GC-RANSAC: https://github.com/danini/graph-cut-ransac
+Add the files from this repo to the GC-RANSAC directory
