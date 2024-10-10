@@ -6,8 +6,12 @@ Our main Github repo with Poselib implementation: https://github.com/kocurvik/rd
 
 ## Installation
 
-Download GC-RANSAC: https://github.com/danini/graph-cut-ransac.
+Download the official GC-RANSAC repo: https://github.com/danini/graph-cut-ransac.
 
 Download the repo and add the files to the GC-RANSAC directory.
 
-Download the datasets
+##
+
+## Citation
+
+TBA
