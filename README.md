@@ -6,13 +6,13 @@ Visit our [main Github repo](https://github.com/kocurvik/rd) for our implementat
 
 ## Installation
 
-Download the official GC-RANSAC repo: https://github.com/danini/graph-cut-ransac
+Download the [official GC-RANSAC repo](https://github.com/danini/graph-cut-ransac)
 
 Include our code to the GC-RANSAC directory.
 
+## Demo
 
-
-##
+TBA
 
 ## Citation
 
