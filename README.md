@@ -14,10 +14,6 @@ Include our code to the GC-RANSAC directory.
 
 Run the solvers!
 
-## Demo
-
-TBA
-
 ## Citation
 
 TBA
